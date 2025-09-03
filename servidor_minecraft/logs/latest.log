@@ -1,0 +1,83 @@
+[22:40:58] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[22:40:58] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[22:40:58] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[22:40:59] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[22:40:59] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Remapping server...
+[22:41:07] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[22:41:07] [ServerMain/INFO]: Found new data pack file/bukkit, loading it automatically
+[22:41:07] [ServerMain/INFO]: Found new data pack paper, loading it automatically
+[22:41:08] [Paper Plugin Remapper Thread - 1/INFO]: [ReobfServer] Done remapping server in 9600ms.
+[22:41:09] [ServerMain/INFO]: No existing world data, creating new world
+[22:41:10] [ServerMain/INFO]: Loaded 1407 recipes
+[22:41:10] [ServerMain/INFO]: Loaded 1520 advancements
+[22:41:10] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[22:41:10] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 526.0ms
+[22:41:11] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[22:41:11] [Server thread/INFO]: Loading properties
+[22:41:11] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[22:41:11] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[22:41:11] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[22:41:11] [Server thread/INFO]: Using 4 threads for Netty based IO
+[22:41:11] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[22:41:11] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[22:41:12] [Server thread/INFO]: Default game type: SURVIVAL
+[22:41:12] [Server thread/INFO]: Generating keypair
+[22:41:12] [Server thread/INFO]: Starting Minecraft server on *:25565
+[22:41:12] [Server thread/INFO]: Using epoll channel type
+[22:41:12] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[22:41:12] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[22:41:12] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[22:41:12] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[22:41:12] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[22:41:12] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[22:41:12] [Server thread/INFO]: Preparing level "world"
+[22:41:22] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[22:41:22] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:22] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:23] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:23] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:24] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:25] [Server thread/INFO]: Preparing spawn area: 18%
+[22:41:25] [Server thread/INFO]: Preparing spawn area: 18%
+[22:41:25] [Server thread/INFO]: Preparing spawn area: 18%
+[22:41:26] [Server thread/INFO]: Preparing spawn area: 20%
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 30%
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 51%
+[22:41:27] [Server thread/INFO]: Preparing spawn area: 57%
+[22:41:28] [Server thread/INFO]: Preparing spawn area: 57%
+[22:41:29] [Server thread/INFO]: Preparing spawn area: 57%
+[22:41:29] [Server thread/INFO]: Time elapsed: 6968 ms
+[22:41:29] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[22:41:29] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:29] [Server thread/INFO]: Preparing spawn area: 8%
+[22:41:30] [Server thread/INFO]: Preparing spawn area: 42%
+[22:41:30] [Server thread/INFO]: Preparing spawn area: 51%
+[22:41:31] [Server thread/INFO]: Time elapsed: 1563 ms
+[22:41:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[22:41:31] [Server thread/INFO]: Preparing spawn area: 2%
+[22:41:31] [Server thread/INFO]: Time elapsed: 484 ms
+[22:41:31] [Server thread/INFO]: [spark] Starting background profiler...
+[22:41:32] [Server thread/INFO]: Done preparing level "world" (19.425s)
+[22:41:32] [Server thread/INFO]: Running delayed init tasks
+[22:41:32] [Server thread/INFO]: Done (34.139s)! For help, type "help"
+[22:41:32] [Server thread/INFO]: *************************************************************************************
+[22:41:32] [Server thread/INFO]: This is the first time you're starting this server.
+[22:41:32] [Server thread/INFO]: It's recommended you read our 'Getting Started' documentation for guidance.
+[22:41:32] [Server thread/INFO]: View this and more helpful information here: https://docs.papermc.io/paper/next-steps
+[22:41:32] [Server thread/INFO]: *************************************************************************************
+[22:41:32] [Server thread/INFO]: Unknown or incomplete command, see below for error
+home/codespace/.python/current/bin/python /workspaces/MCS/msx.py<--[HERE]
+[22:43:27] [User Authenticator #0/INFO]: UUID of player xd600yu is ad24774e-c992-3e4c-9e0c-e2e893f74d49
+[22:43:30] [Server thread/INFO]: xd600yu joined the game
+[22:43:30] [Server thread/INFO]: xd600yu[/127.45.202.141:33533] logged in with entity id 30 at ([world]-665.5, 77.0, 231.5)
+[22:43:42] [Server thread/INFO]: Made xd600yu a server operator
+[22:47:37] [User Authenticator #1/INFO]: UUID of player PARCHES_666 is cddaac6b-a7c5-38bf-9286-0a5dd1b6d055
+[22:47:38] [Server thread/INFO]: PARCHES_666 joined the game
+[22:47:38] [Server thread/INFO]: PARCHES_666[/127.39.40.146:35503] logged in with entity id 877 at ([world]-662.5, 70.0, 243.5)
+[22:48:24] [Async Chat Thread - #0/INFO]: [Not Secure] <PARCHES_666> cambiame el cosa par apoder talar
+[22:48:27] [Server thread/INFO]: xd600yu has made the advancement [Stone Age]
+[22:48:37] [Server thread/INFO]: xd600yu issued server command: /op PARCHES_666
+[22:48:37] [Server thread/INFO]: [xd600yu: Made PARCHES_666 a server operator]
+[22:49:01] [Server thread/INFO]: xd600yu has made the advancement [Getting an Upgrade]
+[22:49:37] [Server thread/INFO]: PARCHES_666 has made the advancement [Stone Age]
+[22:50:47] [Server thread/INFO]: xd600yu has made the advancement [Acquire Hardware]
