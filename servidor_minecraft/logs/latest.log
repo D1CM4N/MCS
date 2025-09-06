@@ -83,3 +83,11 @@ Reason: sybau
 [22:48:23] [Server thread/INFO]: DanilkoGood left the game
 [22:52:10] [Async Chat Thread - #2/INFO]: [Not Secure] <PARCHES_666> r
 [22:53:53] [Async Chat Thread - #4/INFO]: [Not Secure] <xd600yu> entra al dc
+[23:02:33] [Server thread/INFO]: PARCHES_666 has made the advancement [Hot Stuff]
+[23:03:27] [User Authenticator #4/INFO]: UUID of player DanilkoGood is c11bcaff-99b7-352f-80f5-d20e78674cfe
+[23:03:27] [Server thread/INFO]: Disconnecting DanilkoGood (/127.118.188.165:50883): Your IP address is banned from this server.
+Reason: sybau
+[23:03:27] [Server thread/INFO]: DanilkoGood (/127.118.188.165:50883) lost connection: Your IP address is banned from this server.
+Reason: sybau
+[23:06:39] [Server thread/INFO]: xd600yu issued server command: /tp PARCHES_666 xd600yu
+[23:06:39] [Server thread/INFO]: [xd600yu: Teleported PARCHES_666 to xd600yu]
