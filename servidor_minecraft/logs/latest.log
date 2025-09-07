@@ -1,136 +1,51 @@
-[21:57:12] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
-[21:57:12] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
-[21:57:12] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
-[21:57:12] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
-[21:57:18] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
-[21:57:20] [ServerMain/INFO]: Loaded 1407 recipes
-[21:57:20] [ServerMain/INFO]: Loaded 1520 advancements
-[21:57:20] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
-[21:57:20] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 384.6ms
-[21:57:21] [Server thread/INFO]: Starting minecraft server version 1.21.8
-[21:57:21] [Server thread/INFO]: Loading properties
-[21:57:21] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
-[21:57:21] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
-[21:57:21] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[21:57:21] [Server thread/INFO]: Using 4 threads for Netty based IO
-[21:57:22] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
-[21:57:22] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
-[21:57:22] [Server thread/INFO]: Default game type: SURVIVAL
-[21:57:22] [Server thread/INFO]: Generating keypair
-[21:57:22] [Server thread/INFO]: Starting Minecraft server on *:25565
-[21:57:22] [Server thread/INFO]: Using epoll channel type
-[21:57:22] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
-[21:57:22] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
-[21:57:22] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[21:57:22] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[21:57:22] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
-[21:57:22] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[21:57:22] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
-[21:57:22] [Server thread/INFO]: Preparing level "world"
-[21:57:23] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[21:57:23] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:23] [Server thread/INFO]: Preparing spawn area: 8%
-[21:57:23] [Server thread/INFO]: Time elapsed: 941 ms
-[21:57:23] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[21:57:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:24] [Server thread/INFO]: Time elapsed: 217 ms
-[21:57:24] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[21:57:24] [Server thread/INFO]: Preparing spawn area: 0%
-[21:57:24] [Server thread/INFO]: Time elapsed: 134 ms
-[21:57:24] [Server thread/INFO]: [spark] Starting background profiler...
-[21:57:24] [Server thread/INFO]: Done preparing level "world" (2.218s)
-[21:57:24] [Server thread/INFO]: Running delayed init tasks
-[21:57:24] [Server thread/INFO]: Done (13.485s)! For help, type "help"
-[21:59:21] [User Authenticator #0/INFO]: UUID of player xd600yu is ad24774e-c992-3e4c-9e0c-e2e893f74d49
-[21:59:23] [Server thread/INFO]: xd600yu joined the game
-[21:59:23] [Server thread/INFO]: xd600yu[/127.45.202.141:35717] logged in with entity id 16 at ([world]-1511.5, 91.0, 791.5)
-[22:00:26] [User Authenticator #1/INFO]: UUID of player PARCHES_666 is cddaac6b-a7c5-38bf-9286-0a5dd1b6d055
-[22:00:27] [Server thread/INFO]: PARCHES_666 joined the game
-[22:00:27] [Server thread/INFO]: PARCHES_666[/127.39.40.146:43729] logged in with entity id 411 at ([world]-1501.012938345297, 78.0, 859.3464674070888)
-[22:19:57] [Server thread/INFO]: xd600yu issued server command: /tp xd600yu PARCHES_666
-[22:19:57] [Server thread/INFO]: [xd600yu: Teleported xd600yu to PARCHES_666]
-[22:44:52] [User Authenticator #2/INFO]: UUID of player DanilkoGood is c11bcaff-99b7-352f-80f5-d20e78674cfe
-[22:44:53] [Server thread/INFO]: DanilkoGood joined the game
-[22:44:53] [Server thread/INFO]: DanilkoGood[/127.118.188.165:40325] logged in with entity id 6613 at ([world]-663.5, 70.0, 242.5)
-[22:44:56] [Server thread/INFO]: DanilkoGood issued server command: /gamemode creative
-[22:44:57] [Server thread/INFO]: DanilkoGood issued server command: /gamemode 1
-[22:45:13] [Async Chat Thread - #0/INFO]: [Not Secure] <xd600yu> hi
-[22:45:15] [User Authenticator #2/INFO]: UUID of player EBLANIDZE is 7871f21c-737e-3337-997d-e7ce95472006
-[22:45:15] [Async Chat Thread - #0/INFO]: [Not Secure] <DanilkoGood> hi
-[22:45:16] [Server thread/INFO]: EBLANIDZE joined the game
-[22:45:16] [Server thread/INFO]: EBLANIDZE[/127.255.141.93:48285] logged in with entity id 6874 at ([world]-662.5, 79.0, 249.5)
-[22:45:33] [Async Chat Thread - #0/INFO]: [Not Secure] <xd600yu> who r u guys?
-[22:45:43] [Async Chat Thread - #0/INFO]: [Not Secure] <EBLANIDZE> from fbi
-[22:45:48] [Async Chat Thread - #0/INFO]: [Not Secure] <xd600yu> alr
-[22:45:54] [Async Chat Thread - #0/INFO]: [Not Secure] <xd600yu> noooo my cp
-[22:46:03] [Async Chat Thread - #0/INFO]: [Not Secure] <xd600yu> pls no
-[22:46:14] [Async Chat Thread - #0/INFO]: [Not Secure] <EBLANIDZE> great collection but you going to jail
-[22:46:25] [Async Chat Thread - #0/INFO]: [Not Secure] <xd600yu> no pls officer
-[22:48:02] [Server thread/INFO]: xd600yu issued server command: /ban-ip EBLANIDZE sybau
-[22:48:02] [Server thread/INFO]: [xd600yu: Banned IP 127.255.141.93: sybau]
-[22:48:02] [Server thread/INFO]: [xd600yu: This ban affects 1 player(s): EBLANIDZE]
-[22:48:02] [Server thread/INFO]: EBLANIDZE lost connection: You have been IP banned from this server
-[22:48:02] [Server thread/INFO]: EBLANIDZE left the game
-[22:48:05] [User Authenticator #3/INFO]: UUID of player EBLANIDZE is 7871f21c-737e-3337-997d-e7ce95472006
-[22:48:05] [Server thread/INFO]: Disconnecting EBLANIDZE (/127.255.141.93:57087): Your IP address is banned from this server.
-Reason: sybau
-[22:48:05] [Server thread/INFO]: EBLANIDZE (/127.255.141.93:57087) lost connection: Your IP address is banned from this server.
-Reason: sybau
-[22:48:22] [Server thread/INFO]: xd600yu issued server command: /ban-ip DanilkoGood sybau
-[22:48:23] [Server thread/INFO]: [xd600yu: Banned IP 127.118.188.165: sybau]
-[22:48:23] [Server thread/INFO]: [xd600yu: This ban affects 1 player(s): DanilkoGood]
-[22:48:23] [Server thread/INFO]: DanilkoGood lost connection: You have been IP banned from this server
-[22:48:23] [Server thread/INFO]: DanilkoGood left the game
-[22:52:10] [Async Chat Thread - #2/INFO]: [Not Secure] <PARCHES_666> r
-[22:53:53] [Async Chat Thread - #4/INFO]: [Not Secure] <xd600yu> entra al dc
-[23:02:33] [Server thread/INFO]: PARCHES_666 has made the advancement [Hot Stuff]
-[23:03:27] [User Authenticator #4/INFO]: UUID of player DanilkoGood is c11bcaff-99b7-352f-80f5-d20e78674cfe
-[23:03:27] [Server thread/INFO]: Disconnecting DanilkoGood (/127.118.188.165:50883): Your IP address is banned from this server.
-Reason: sybau
-[23:03:27] [Server thread/INFO]: DanilkoGood (/127.118.188.165:50883) lost connection: Your IP address is banned from this server.
-Reason: sybau
-[23:06:39] [Server thread/INFO]: xd600yu issued server command: /tp PARCHES_666 xd600yu
-[23:06:39] [Server thread/INFO]: [xd600yu: Teleported PARCHES_666 to xd600yu]
-[23:21:13] [Server thread/INFO]: xd600yu issued server command: /tp PARCHES_666 xd600yu
-[23:21:13] [Server thread/INFO]: [xd600yu: Teleported PARCHES_666 to xd600yu]
-[23:25:52] [Server thread/INFO]: PARCHES_666 lost connection: Disconnected
-[23:25:52] [Server thread/INFO]: PARCHES_666 left the game
-[23:32:44] [User Authenticator #5/INFO]: UUID of player EBLANIDZE is 7871f21c-737e-3337-997d-e7ce95472006
-[23:32:44] [Server thread/INFO]: Disconnecting EBLANIDZE (/127.255.141.93:55779): Your IP address is banned from this server.
-Reason: sybau
-[23:32:44] [Server thread/INFO]: EBLANIDZE (/127.255.141.93:55779) lost connection: Your IP address is banned from this server.
-Reason: sybau
-[23:33:18] [Server thread/INFO]: xd600yu lost connection: Disconnected
-[23:33:18] [Server thread/INFO]: xd600yu left the game
-[23:33:27] [Server thread/INFO]: Stopping server
-[23:33:27] [Server thread/INFO]: Saving players
-[23:33:27] [Server thread/INFO]: Saving worlds
-[23:33:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Saved 162 block chunks, 379 entity chunks, 0 poi chunks in world 'world' in 0.31s
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
-[23:33:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 0 entity chunks, 0 poi chunks in world 'world_nether' in 0.00s
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
-[23:33:27] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
-[23:33:27] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
-[23:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[23:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[23:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[23:33:27] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
-[23:33:27] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
-[23:33:27] [Server thread/INFO]: All RegionFile I/O tasks to complete
-[23:33:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
-[23:33:27] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
+[19:55:55] [ServerMain/INFO]: [bootstrap] Running Java 21 (OpenJDK 64-Bit Server VM 21.0.8+9-Ubuntu-0ubuntu124.04.1; Ubuntu null) on Linux 6.8.0-1030-azure (amd64)
+[19:55:55] [ServerMain/INFO]: [bootstrap] Loading Paper 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) for Minecraft 1.21.8
+[19:55:55] [ServerMain/INFO]: [PluginInitializerManager] Initializing plugins...
+[19:55:55] [ServerMain/INFO]: [PluginInitializerManager] Initialized 0 plugins
+[19:56:00] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:56:01] [ServerMain/INFO]: Loaded 1407 recipes
+[19:56:01] [ServerMain/INFO]: Loaded 1520 advancements
+[19:56:01] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Initialising converters for DataConverter...
+[19:56:02] [ServerMain/INFO]: [ca.spottedleaf.dataconverter.minecraft.datatypes.MCTypeRegistry] Finished initialising converters for DataConverter in 376.1ms
+[19:56:02] [Server thread/INFO]: Starting minecraft server version 1.21.8
+[19:56:02] [Server thread/INFO]: Loading properties
+[19:56:02] [Server thread/INFO]: This server is running Paper version 1.21.8-6-main@782ce95 (2025-07-18T20:26:58Z) (Implementing API version 1.21.8-R0.1-SNAPSHOT)
+[19:56:02] [Server thread/INFO]: [spark] This server bundles the spark profiler. For more information please visit https://docs.papermc.io/paper/profiling
+[19:56:02] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:56:02] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:56:03] [Server thread/INFO]: [MoonriseCommon] Paper is using 1 worker threads, 1 I/O threads
+[19:56:03] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using population gen parallelism: true
+[19:56:04] [Server thread/INFO]: Default game type: SURVIVAL
+[19:56:04] [Server thread/INFO]: Generating keypair
+[19:56:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:56:05] [Server thread/INFO]: Using epoll channel type
+[19:56:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:56:05] [Server thread/INFO]: Paper: Using OpenSSL 3.x.x (Linux x86_64) cipher from Velocity.
+[19:56:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:56:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[19:56:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[19:56:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[19:56:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[19:56:05] [Server thread/INFO]: Preparing level "world"
+[19:56:05] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:56:06] [Server thread/INFO]: Preparing spawn area: 0%
+[19:56:06] [Server thread/INFO]: Preparing spawn area: 2%
+[19:56:07] [Server thread/INFO]: Preparing spawn area: 53%
+[19:56:07] [Server thread/INFO]: Time elapsed: 1186 ms
+[19:56:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:56:07] [Server thread/INFO]: Preparing spawn area: 0%
+[19:56:07] [Server thread/INFO]: Time elapsed: 274 ms
+[19:56:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:56:07] [Server thread/INFO]: Preparing spawn area: 0%
+[19:56:07] [Server thread/INFO]: Time elapsed: 134 ms
+[19:56:07] [Server thread/INFO]: [spark] Starting background profiler...
+[19:56:07] [Server thread/INFO]: Done preparing level "world" (2.825s)
+[19:56:07] [Server thread/INFO]: Running delayed init tasks
+[19:56:07] [Server thread/INFO]: Done (13.837s)! For help, type "help"
+[19:59:13] [User Authenticator #0/INFO]: UUID of player PARCHES_666 is cddaac6b-a7c5-38bf-9286-0a5dd1b6d055
+[19:59:15] [Server thread/INFO]: PARCHES_666 joined the game
+[19:59:15] [Server thread/INFO]: PARCHES_666[/127.39.40.146:45969] logged in with entity id 16 at ([world]-1526.8006168919264, 94.0, 806.6699846520938)
+[20:00:15] [Server thread/INFO]: [Not Secure] [Server] sybau
+[20:00:34] [Server thread/INFO]: [Not Secure] [Server] big bother is waching u lil nigga
+[20:02:32] [Server thread/INFO]: PARCHES_666 has made the advancement [We Need to Go Deeper]
+[20:04:24] [Server thread/INFO]: PARCHES_666 has made the advancement [Stay Hydrated!]
